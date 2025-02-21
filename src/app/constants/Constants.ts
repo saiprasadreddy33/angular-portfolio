@@ -124,17 +124,24 @@ export const TAG_CANVAS_OPTIONS: TagCanvasOptions = {
 export const NEW_EXPERIENCES: INewExperience[] = [
   {
     accentColor: '#41516c',
-    date: '2022 - present',
-    cmp: 'Mangtas',
-    title: 'Developer',
+    date: '2022 - 2023',
+    cmp: 'Cerone Software Pvt Ltd',
+    title: 'Intern Developer',
     description: `Design and development Engineer`
   },
   {
     accentColor: '#fbca3e',
     date: '2023-present',
-    cmp: 'Project On Track',
+    cmp: 'Raju Tech',
     title: 'Software Engineer,',
     description: `Working as a  front  end developer`
+  },
+  {
+    accentColor: '#fbca3e',
+    date: '2024-present',
+    cmp: 'Able.do',
+    title: 'Developer',
+    description: `Working as a developer`
   },
 ];
 
